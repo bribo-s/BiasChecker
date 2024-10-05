@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Bias Checker",
     "version": "1.0",
-    "description": "Check for bias in text using an API.",
+    "description": "Check for bias in text using AI.",
     "permissions": ["activeTab", "scripting", "storage"],
     "action": {
       "default_popup": "popup.html"
